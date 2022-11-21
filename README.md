@@ -2,10 +2,10 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=%20OSS%20TeamProject&fontSize=60)
-
+<br><br>
 ## 💻 **QA-6 Group Member**
 
-|🚩 변규호|김유영|김진성|송이삭치운|강태린|박광현|
+|변규호|김유영|김진성|송이삭치운|강태린|박광현|
 |------------------------------|-----|----|----|-----|----|
 |<a href="https://github.com/gyu1123"><img src="https://img.shields.io/badge/gyu1123-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/kimyouyoung1"><img src="https://img.shields.io/badge/kimyouyoung1-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/Cheugeun"><img src="https://img.shields.io/badge/Cheugeun-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/SongISac"><img src="https://img.shields.io/badge/SongISac-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/taerin821"><img src="https://img.shields.io/badge/taerin821-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/Oakdol"><img src="https://img.shields.io/badge/Oakdol-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|   
 
@@ -31,8 +31,3 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=ffffff"/>  
-
-<br><br>
-
-## 📊 **GitHub Stats**
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=opsos1&show_icons=true&hide=issues,stars)](https://github.com/rdyjun/github-readme-stats)
