@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=%20OSS%20TeamProject&fontSize=60&desc=dfd&descAlignY=51&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=%20OSS%20TeamProject&fontSize=60)
 
 ## 💻 **QA-6 Group Member**
 
